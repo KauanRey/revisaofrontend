@@ -28,5 +28,10 @@ button{
    width:25%;
    height:35px;
    font-weight:bolder;
+   background-color: rgb(0, 162, 255);
   
+}
+
+table{
+    background-color: black;
 }
